@@ -3,5 +3,3 @@ closed
 h
 h
 g
-
-wd
